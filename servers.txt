@@ -9,7 +9,3 @@ fprint8
 fprint9
 fprint10
 fprint11
-printcas1
-
-
-
